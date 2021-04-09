@@ -53,7 +53,10 @@ body {
 .main-container {
     padding: 100px 0;
 }
-
+ 
+.service_padding_under{
+    padding-top: 10px;
+}
 .text_center{
     text-align: center;
     color: #333;
